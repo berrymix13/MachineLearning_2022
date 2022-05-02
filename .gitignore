@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my
+labeledTraindata.tsv
+movies.csv
+ratings.csv
+ratings_noh.csv
+tags.csv
 # C extensions
 *.so
 
